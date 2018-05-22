@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87f427ef7d058d14d979dbef622014ad
+timeCreated: 1512252909
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PC: {instanceID: 0}
+  - katanaHitPrefab: {fileID: 114821017593175630, guid: 9ce9955959b4bb5448c69cee968a1fe7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

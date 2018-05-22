@@ -1,0 +1,10 @@
+{
+    "name": "Rewired_CSharp_Editor",
+    "references": [
+        "Rewired_CSharp"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
